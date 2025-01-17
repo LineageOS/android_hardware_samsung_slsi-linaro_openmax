@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "bf99016f_c41abaa0",
+        "filename": "openmax/component/common/Android.bp",
+        "patchSetId": 2
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 25925
+      },
+      "writtenOn": "2025-01-17T05:22:54Z",
+      "side": 1,
+      "message": "Can we use device_kernel_headers here and in the other places this is used to keep this BSP compatible with pure AOSP?\nOn lineage it\u0027d still be replaced with generated_kernel_headers anyway.",
+      "revId": "7593f51483b72f57d43e320b04a8b99821549beb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
